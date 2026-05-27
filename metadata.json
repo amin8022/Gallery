@@ -1,0 +1,6 @@
+{
+  "name": "iGallery",
+  "description": "A premium Android gallery app inspired by the iPhone Photos app UI and UX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
